@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1711583556 source:c:\users\hp\desktop\projets_cse\project-0\demo\main.c
+	"header.h"
+
+1711387658 source:c:\users\hp\desktop\projets_cse\project-0\demo\about.c
+	"header.h"
+
+1711583375 c:\users\hp\desktop\projets_cse\project-0\demo\header.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<stdbool.h>
+	<stdio.h>
+
+1711429180 source:c:\users\hp\desktop\projets_cse\project-0\demo\selectbird.c
+	"header.h"
+
+1711388019 source:c:\users\hp\desktop\projets_cse\project-0\demo\settings.c
+	"header.h"
+
